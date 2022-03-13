@@ -16,7 +16,7 @@ return [
     'name' => env('APP_NAME', 'Laravel'),
 
     //app install
-    'install' => env('MIX_PUSHER_APP_CLUSTER_SECURE', 'c2f3f489a00553e7a01d369c103c7251'),
+    'install' => env('MIX_PUSHER_APP_CLUSTER_SECURE', '7469a286259799e5b37e5db9296f00b3'),
 
     //smtp
     'MAIL_MAILER' => env('MAIL_MAILER', 'smtp'),
