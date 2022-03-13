@@ -1,0 +1,13 @@
+/*installation*/
+.laravel-welcome {
+    height: calc(100vh - 130px);
+    overflow-y: auto;
+}
+/*padding in installation*/
+.done-padding{
+    padding-top: 12% !important;
+}
+/*border in installation*/
+.done-border{
+    border: 1px solid black;
+}
